@@ -91,6 +91,7 @@ class MainActivity : AppCompatActivity(),FoodAdapter.FoodEvent {
                 }else{
 
                     Toast.makeText(this, "لطفا همه مقادیر را وارد کنید", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this, "mobin ahmadi", Toast.LENGTH_SHORT).show()
                 }
 
             }
